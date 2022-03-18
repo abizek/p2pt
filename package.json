@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subins2000/p2pt.git"
+    "url": "git+https://github.com/abizek/p2pt.git"
   },
   "keywords": [
     "webtorrent",
@@ -43,9 +43,9 @@
   "author": "subins2000",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/subins2000/p2pt/issues"
+    "url": "https://github.com/abizek/p2pt/issues"
   },
-  "homepage": "https://github.com/subins2000/p2pt#readme",
+  "homepage": "https://github.com/abizek/p2pt#readme",
   "standard": {
     "ignore": [
       "dist"
